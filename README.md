@@ -154,21 +154,21 @@ You can download the application from Playstore(Click Below).
 
 ## License
 
-[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) - Read More about License in [COPYING](https://github.com/pishabh625/Medi-Scanner/blob/main/COPYING) file
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) - Read More about License in [COPYING](https://github.com/aayushdubey-codes/MediScanner/blob/main/COPYING) file
 
 
 ## Contributing
 
 Contributions are always welcome!
 
-See [contributing.md](https://github.com/pishabh625/Medi-Scanner/blob/main/CONTRIBUTING.md) for ways to get started.
+See [contributing.md](https://github.com/aayushdubey-codes/MediScanner/blob/main/CODE_OF_CONDUCT.md) for ways to get started.
 
 Please adhere to this project's [CODE OF CONDUCT](https://github.com/pishabh625/Medi-Scanner/blob/main/CODE_OF_CONDUCT.md).
 
 
 ## Authors
 
-- [@pishabh625(gemxd)](https://www.github.com/pishabh625) - The starter of this open source project
+- [@aayushdubey-codes](https://www.github.com/aayushdubey-codes) - The starter of this open source project
 
 
 
@@ -186,10 +186,10 @@ For support, email at [dappment@gmail.com](mailto:dappment@gmail.com)
 ## 🔗 Links
 Support Me, if you like my work:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi8827/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-dubey-achievements)
 
-[![leetcode](https://img.shields.io/badge/Leetcode-7B3F00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/gemxd/)
+[![leetcode](https://img.shields.io/badge/Leetcode-7B3F00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aayush_dubey-codes/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/prishabh62J)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aayushdubey)
 
 
